@@ -1,0 +1,32 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 30%;
+    height: 30px;
+    border-left: whitesmoke ;
+    border-top: whitesmoke ;
+    border-right: whitesmoke ;
+}
+
+.cadastroo{
+    text-decoration: none;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50;
+}
+
+article div{
+    padding: 50px;
+}
+
+.inputs{
+    width: 30%;
+    height: 30px;
+    border-left: whitesmoke ;
+    border-top: whitesmoke ;
+    border-right: whitesmoke ;
+    text-decoration: none;
+}
